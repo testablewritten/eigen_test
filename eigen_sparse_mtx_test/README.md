@@ -13,3 +13,4 @@ $ g++ (filename).cpp -o (wanted execution file name)
 - test how to compress sparse matrix
 - test how to get the Compressed Column Storage(ccs) using compressed sparse matrix
 - test how to get a permutation
+- test how to get a matrix size

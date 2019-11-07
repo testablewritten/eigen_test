@@ -8,7 +8,7 @@
 - test how to compress sparse matrix
 - test how to get the Compressed Column Storage(ccs) using compressed sparse matrix
 - test how to get a permutation
-
+- test how to get a the matrix size
 
 ## Pseudo_inverse_using_QR_Factorizaion
 
