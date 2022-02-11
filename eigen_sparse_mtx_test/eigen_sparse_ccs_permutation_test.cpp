@@ -1,7 +1,10 @@
 #include <iostream>
-#include "/home/kavehakbarihamed/Eigen/Dense"
-#include "/home/kavehakbarihamed/Eigen/Sparse"
-#include "/home/kavehakbarihamed/Eigen/OrderingMethods"
+//#include "/home/kavehakbarihamed/Eigen/Dense"
+//#include "/home/kavehakbarihamed/Eigen/Sparse"
+//#include "/home/kavehakbarihamed/Eigen/OrderingMethods"
+#include "/home/seop/eigen-3.4.0/Eigen/Dense"
+#include "/home/seop/eigen-3.4.0/Eigen/Sparse"
+#include "/home/seop/eigen-3.4.0/Eigen/OrderingMethods"
 
 using namespace Eigen;
 

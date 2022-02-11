@@ -2,6 +2,17 @@
 
 ## Don't forget changing the Eigen directory to the suitable one
 
+> Download manually
+- When you download the Eigen, tar.gz or zip file has all source code of Eigen under __Eigen__ folder
+- Including this __Eigen__ folder with suitable directory setting gives all functions of Eigen
+
+> Using apt
+```sh
+$ sudo apt install libeigen3-dev
+```
+- This command installs the Eigen files under __/usr/include/eigen3__
+- This route also helps using Eigen with cmake a little bit easier
+
 ## eigen_sparse_mtx_test
 
 - test how to convert dense matrix to sparse matrix
